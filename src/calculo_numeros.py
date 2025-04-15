@@ -17,5 +17,5 @@ def main():
             print("\nPrograma finalizado.")
             break
 
-if __name__ == "_main_":
-    main()
+if __name__ == "__main__":
+    main() 
